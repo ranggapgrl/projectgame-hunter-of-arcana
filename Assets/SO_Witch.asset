@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15c45f73635c74d4f80aba80c738a56c, type: 3}
   m_Name: SO_Witch
   m_EditorClassIdentifier: 
-  enemyName: SO_Orc
-  hp: 120
-  damage: 15
-  speed: 1.5
-  cooldown: 1.8
-  armor: 0.3
-  cost: 45
+  enemyName: SO_Witch
+  hp: 50
+  damage: 14
+  speed: 2
+  cooldown: 2
+  armor: 0
+  cost: 15
